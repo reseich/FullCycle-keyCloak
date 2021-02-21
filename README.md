@@ -1,0 +1,1 @@
+Example how configure and use keycloak
